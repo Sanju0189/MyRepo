@@ -1,0 +1,15 @@
+<suite name ="RestAPI" verbose="1">
+	<test name ="ResAPITest" >
+		<classes>
+		
+		<class name ="com.api.tests.GetAPITest"></class>
+		<class name = "com.api.tests.PostAPITest"></class>
+		<class name ="com.api.tests.PutAPITest"></class>
+		<class name ="com.api.tests.DeleteAPITest"></class>
+		</classes>
+	
+	
+	</test>
+
+
+</suite>
